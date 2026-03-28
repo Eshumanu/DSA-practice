@@ -50,3 +50,11 @@ DSA-practice
 ---
 
 ⭐ If you find this useful, feel free to star the repository!
+
+
+git init
+git add .
+git commit -m "Portfolio upload"
+git remote add origin https://github.com/eshumanu/java-dev-portfolio.git
+git branch -M main
+git push -u origin main
